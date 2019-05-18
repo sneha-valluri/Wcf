@@ -13,7 +13,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{304C3E29-40F2-4543-B2D5-83D4CA3D399F}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = postSolution
+	GlobalSection(SolutionConfigurationPlatforms) = preSolutions
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
@@ -31,7 +31,7 @@ Global
 		{304C3E29-40F2-4543-B2D5-83D4CA3D399F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{304C3E29-40F2-4543-B2D5-83D4CA3D399F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = postSolution
+	GlobalSection(SolutionProperties) = preSolutions
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
